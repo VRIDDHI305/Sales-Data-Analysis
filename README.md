@@ -15,7 +15,7 @@
 This Power BI dashboard provides actionable insights into *Sales Performance, Profitability, Customer Behavior, and **Discount Strategies*.  
 It helps stakeholders make *data-driven business decisions* by visualizing key KPIs, product trends, and regional performance.
 
-🔗 *Dashboard Link:* [View Power BI Report](https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection)
+🔗 *Dashboard Link:* [View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiOGU4ZmU4NDktMjQxNy00MTUzLWFjMDEtYmRjZTM0ZjQ3N2NjIiwidCI6ImRkOThmY2E2LTQyZGYtNDhiYy1iYTI5LTczNzA0MzE4NWQ3NyJ9)
 
 ---
 
@@ -48,10 +48,10 @@ It helps stakeholders make *data-driven business decisions* by visualizing key K
 
 | View | Description |
 |------|--------------|
-| ![Orders Data](./Screenshot%202025-11-10%20212708.png) | Orders Data Table with interactive filters |
-| ![KPIs](./Screenshot%202025-11-10%20212750.png) | KPI cards for Net Sales, Profit & Quantity comparison |
-| ![Top Bottom Products](./Screenshot%202025-11-10%20212812.png) | Top & Bottom 5 Products by Sales, Profit & Quantity |
-| ![Sales by City](./Screenshot%202025-11-10%20212848.png) | Sales by City, Profit vs Net Sales & Sales Trend visual |
+| ![Sales by City](Overview.png) | Sales by City, Profit vs Net Sales & Sales Trend visual |
+| ![Top Bottom Products](TopBotton%205%20Analysis.png) | Top & Bottom 5 Products by Sales, Profit & Quantity |
+| ![KPIs](Comparison%20Sale%20Profit%20Quantity.png) | KPI cards for Net Sales, Profit & Quantity comparison |
+| ![Orders Data](Table%20View.png) | Orders Data Table with interactive filters |
 
 ---
 
